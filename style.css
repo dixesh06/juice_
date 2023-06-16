@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(219, 167, 98);
+    font-size: 3rem;
+}
+.img{
+    border: 5px solid white;
+    width: 100%;
+    
+}
+.poster{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+p{
+    font-size: 2rem;
+}
+.singer{
+    color: antiquewhite;
+    font-family:'Libre Baskerville', serif ;
+    font-size: 2.5rem;
+    margin-left: 70%;
+}
